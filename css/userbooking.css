@@ -1,0 +1,20 @@
+.profcontent p {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.profcontent table {
+    border-collapse: collapse;
+    margin: 0 auto; /* This will center the table horizontally */
+}
+
+.profcontent th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.profcontent th {
+    background-color: #454444c3;
+    color: white;
+}
